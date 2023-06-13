@@ -1,3 +1,4 @@
 ### Learnings
 
-1. If something is blatanly wrong you should question it. If its too perfect you should question it even more.
+1. Eat the frog in the morning.
+2. If something is too perfect, it might be wrong.
