@@ -1,4 +1,4 @@
-### Learnings
+### Beliefs
 
 1. Eat the frog in the morning.
 2. If you encounter a bug you cannot reproduce, increase transparency of the system until you can.
